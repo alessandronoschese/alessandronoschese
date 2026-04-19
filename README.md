@@ -25,8 +25,9 @@ My background is in mechanical design and analysis, and I'm expanding my skills 
 ---
  
 ## 📂 Projects
- 
-> 🚧 *Projects coming soon — stay tuned!*
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [3D Pedestrian Detection](https://github.com/alessandronoschese/Intelligent-Vehicles-Course) | 3D pedestrian detection from a single monocular camera, using YOLO + ground plane geometry. Final assignment for the Intelligent Vehicles course at TU Delft. | Python, YOLO, OpenCV, NumPy |
  
 ---
  
