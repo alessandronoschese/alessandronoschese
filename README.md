@@ -1,7 +1,6 @@
 # Hi, I'm Alessandro Noschese 👋
  
-I'm a Mechanical Engineering student currently completing my MSc thesis at **TU Delft**, with a BSc from the **Polytechnic of Milan**.
-My background is in mechanical design and analysis, and I'm expanding my skills in **Python** for engineering applications.
+I'm a Mechanical Engineering student currently completing my MSc thesis at **TU Delft**, with a BSc from the **Polytechnic of Milan** also in Mechanical Engineering. Here in Delft I'm following the High Tech track within mechanical engineering.
  
 ---
  
