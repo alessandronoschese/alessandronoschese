@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro Noschese 👋
+# Hi, I'm Alessandro 👋
  
 I'm a Mechanical Engineering student currently completing my MSc thesis at **TU Delft**, with a BSc from the **Polytechnic of Milan** also in Mechanical Engineering. Here in Delft I'm following the High Tech track within mechanical engineering.
  
